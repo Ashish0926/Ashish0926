@@ -3,7 +3,7 @@
 ## 🕵🏻 Socials :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ashish0926) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/ash_gt7)
-[![LeetCode ash_gt7](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fash_gt7&logo=leetcode&logoColor=yellow)](https://leetcode.com/ash_gt7/)
+[![LeetCode ash_gt7](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=ash_gt7&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fash_gt7&logo=leetcode&logoColor=yellow)](https://leetcode.com/ash_gt7/)
 
 ## 🧑🏻‍💻 Tech Tools :
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) 
